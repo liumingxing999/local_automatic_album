@@ -2,7 +2,7 @@ name: local_automatic_album
 description: 本地相册自动备份
 version: 0.0.1
 author: Crazy丶STAR<2096099156@qq.com>
-homepage:
+homepage: https://github.com/liumingxing999/local_automatic_album.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
