@@ -126,7 +126,7 @@ var base64ThumValue = await aublm.getThumbnailPhoto(allData[0].id);
 
 本插件依赖于:
 
-[extended_image](https://pub.flutter-io.cn/packages/extended_image)、[photo_manager](https://pub.flutter-io.cn/packages/photo_manager)、[sqflite](https://pub.flutter-io.cn/packages/sqflite)
+[extended_image](https://pub.flutter-io.cn/packages/extended_image)、[photo_manager](https://pub.flutter-io.cn/packages/photo_manager)、[sqflite](https://pub.flutter-io.cn/packages/sqflite)、[path](https://pub.flutter-io.cn/packages/path)
 
 ## QA
 
