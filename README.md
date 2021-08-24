@@ -62,7 +62,7 @@ flutter pub add local_automatic_album
 
 ```yaml
 dependencies:
-  local_automatic_album: ^0.0.1
+  local_automatic_album: ^0.0.3
 ```
 ## 使用
 

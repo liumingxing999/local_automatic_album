@@ -1,6 +1,6 @@
 name: local_automatic_album
 description: 本地相册自动备份
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/liumingxing999/local_automatic_album.git
 
 environment:
