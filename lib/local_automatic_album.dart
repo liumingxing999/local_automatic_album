@@ -4,8 +4,8 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:extended_image/extended_image.dart';
 import 'package:photo_manager/photo_manager.dart';
-import 'SQLite.dart';
-import 'Album.dart';
+import 'src/SQLite.dart';
+import 'src/Album.dart';
 class AutomaticAlbum {
 
   /// 用于控制自动备份的开关，true为开，false为关
